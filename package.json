@@ -1,0 +1,15 @@
+{
+  "name": "meeting-price-counter",
+  "version": "0.0.1",
+  "description": "How much money are you spending on that meeting?",
+  "main": "index.jsx",
+  "dependencies": {
+    "hyperapp": "^2.0.0-beta.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.jsx"
+  },
+  "author": "Marcio Frayze David",
+  "license": "MIT"
+}
