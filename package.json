@@ -13,6 +13,10 @@
   "scripts": {
     "start": "parcel index.html"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mfdavid/meeting-price-counter.git"
+  },
   "author": "Marcio Frayze David",
   "license": "MIT"
 }
