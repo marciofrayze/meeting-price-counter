@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "parcel index.jsx"
+    "start": "parcel index.html"
   },
   "author": "Marcio Frayze David",
   "license": "MIT"
