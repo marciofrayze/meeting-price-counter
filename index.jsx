@@ -1,5 +1,5 @@
 import { h, app } from "hyperapp"
-import { tick } from "@hyperapp/time"
+import { interval } from "@hyperapp/time"
 
 const state = {
     counting: false,
@@ -102,10 +102,10 @@ const main = app({
     init: () => state,
     view: view,
     node: document.getElementById("app"),    
-    subscriptions: () => [
-        tick({
+    subscriptions: state => [
+        interval({
             action: Tick,
-            interval: 1000
+            delay: 1000
         })
     ]
 })
