@@ -4,10 +4,10 @@ See the web app in action at: [https://meeting-price-counter.web.app/](https://m
 
 **This is a work in progress. No css yet.**
 
-## What is it?
+## What is this?
 
 As the name implies, this is a simple web app where you can count how much money is being spent on a meeting.
-Just insert how many people are in the meeting, what is the average salary and click in start counting.
+Just enter the number of attendees, the average salary and click start counting.
 
 ## Why?
 
