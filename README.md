@@ -1,6 +1,6 @@
 # Meeting Price Counter
 
-See the web app in action at: [https://meeting-price-counter.firebaseapp.com/](https://meeting-price-counter.firebaseapp.com/)
+See the web app in action at: [https://meeting-price-counter.web.app/](https://meeting-price-counter.web.app/)
 
 **This is a work in progress. No css yet.**
 
